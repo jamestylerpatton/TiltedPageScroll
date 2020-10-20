@@ -17,7 +17,7 @@ const TiltedPage = (function () {
   const Constructor = function (options) {
     const defaults = {
       selector: null,
-      sectionContainer: "section",
+      sectionContainer: "> section",
       angle: 50,
       opacity: true,
       scale: true,
@@ -221,7 +221,7 @@ const TiltedPage = (function () {
 
       // Redefine sections
       $sections = $elem
-        ? $elem.querySelectorAll(settings.sectionContainer)
+        ? $elem.querySelectorAll(':scope ' + settings.sectionContainer)
         : null;
 
       // Return if no sections found on page
