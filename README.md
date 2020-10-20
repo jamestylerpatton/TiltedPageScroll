@@ -5,6 +5,10 @@ Fork of [Tilted Page Scroll](https://github.com/peachananr/tiltedpage_scroll) by
 
 Vanilla JS fork by [James Tyler Patton](https://jamestylerpatton.com).
 
+## Demo
+
+[View demo](https://jamestylerpatton.github.io/TiltedPageScroll/demo/vanilla_demo.html)
+
 ## Basic Usage
 
 With this plugin, you can create a beautiful scrolling effect and turn a simple layout website into something surprising.

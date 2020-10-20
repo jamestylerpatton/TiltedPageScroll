@@ -1,5 +1,6 @@
 /*!
  * Vanilla JS fork of jquery-tiltedpage-scroll.js plugin
+ * https://github.com/jamestylerpatton/TiltedPageScroll
  *
  * Create a beautiful 3D tilted effect on scroll
  * with Tilted Page Scroll plugin
