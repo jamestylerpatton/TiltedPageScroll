@@ -1,7 +1,8 @@
 # Tilted Page Scroll Fork
 Create a beautiful 3D tilted scrolling effect for your website.
 
-Created by [Pete R.](http://www.thepetedesign.com), Founder of [Travelistly](http://www.Travelistly.com) and [BucketListly](http://www.bucketlistly.com)
+Fork of [Tilted Page Scroll](https://github.com/peachananr/tiltedpage_scroll) by [Pete R.](http://www.thepetedesign.com), Founder of [Travelistly](http://www.Travelistly.com) and [BucketListly](http://www.bucketlistly.com)
+
 Vanilla JS fork by [James Tyler Patton](https://jamestylerpatton.com).
 
 ## Basic Usage

@@ -3,7 +3,7 @@
  *
  * Create a beautiful 3D tilted effect on scroll
  * with Tilted Page Scroll plugin
- * https://github.com/peachananr/tiltedpage-scroll
+ * https://github.com/peachananr/tiltedpage_scroll
  *
  * Revealing Constructor Pattern Boilerplate
  * https://vanillajstoolkit.com/boilerplates/revealing-constructor/
